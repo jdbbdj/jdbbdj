@@ -3,7 +3,7 @@
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbbdj&label=Profile%20views&color=0e75b6&style=flat" alt="jdbbdj" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdbbdj" alt="jdbbdj" /></a> </p>
-
+<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567320-eb8805e8-90dd-44fd-908d-99f57c43662f.gif" >
 - 🔭 I’m currently working on **Yondu Inc**
 
 - I'm Currently learning **THREE.JS and React native integration**
