@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/75722677/222571478-ec508760-2c27-4967-ae91-d8b72fba5f74.gif" width="600" />
+</div>
+<div align="center">
   <h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
   <h3 align="center">Create with me! take a look on my simple animations</h3>
   <img align="center" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
