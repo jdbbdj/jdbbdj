@@ -1,16 +1,21 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
-  <h3 align="center">C</h3>
+  <h3 align="center">Create with me! take a look on my simple animations</h3>
   <img align="center" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
 </div>
+<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567320-eb8805e8-90dd-44fd-908d-99f57c43662f.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbbdj&label=Profile%20views&color=0e75b6&style=flat" alt="jdbbdj" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdbbdj" alt="jdbbdj" /></a> </p>
-<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567320-eb8805e8-90dd-44fd-908d-99f57c43662f.gif" >
+
+<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567311-354e7148-f356-46d6-9df9-75025e29fa08.gif" >
+
 - 🔭 I’m currently working on **Yondu Inc**
 
 - I'm Currently learning **THREE.JS and React native integration**
 
 - How to reach me? **jamesdarylbertiz@gmail.com**
+
+<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567304-70912a11-d782-4b6b-b753-76250b2815af.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
