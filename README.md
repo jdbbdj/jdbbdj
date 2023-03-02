@@ -15,9 +15,10 @@
 
 - How to reach me? **jamesdarylbertiz@gmail.com**
 
-<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567304-70912a11-d782-4b6b-b753-76250b2815af.gif" >
+
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567304-70912a11-d782-4b6b-b753-76250b2815af.gif" >
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/james-daryl-bertiz-36b835177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/james-daryl-bertiz-36b835177/" height="30" width="40" /></a>
 </p>
