@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
   <h3 align="center">C</h3>
   <img align="center" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
