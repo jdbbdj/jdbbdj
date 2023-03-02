@@ -2,7 +2,6 @@
 <h3 align="center">C</h3>
 <img align="center" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" width="200px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbbdj&label=Profile%20views&color=0e75b6&style=flat" alt="jdbbdj" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdbbdj" alt="jdbbdj" /></a> </p>
 
 - 🔭 I’m currently working on **Yondu Inc**
