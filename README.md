@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
 <h3 align="center">C</h3>
-<img align="right" alt="dotes" src="![gif_result (3)](https://user-images.githubusercontent.com/75722677/222562153-74960696-05f9-43f8-aac2-85de759de4d3.gif)" alt="jdbbdj" /> 
+![gif_result (3)](https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbbdj&label=Profile%20views&color=0e75b6&style=flat" alt="jdbbdj" /> </p>
 
