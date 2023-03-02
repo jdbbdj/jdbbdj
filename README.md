@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Yondu Inc**
 
-- I'm Currently learning **THREE.JS and React native integration**
+- I'm Currently learning **THREE.JS, Blender, and React native integration**
 
 - How to reach me? **jamesdarylbertiz@gmail.com**
 
