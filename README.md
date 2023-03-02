@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
-<h3 align="right">C</h3>
-<img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
+<div>
+  <h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
+  <h3 align="center">C</h3>
+  <img align="center" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbbdj&label=Profile%20views&color=0e75b6&style=flat" alt="jdbbdj" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdbbdj" alt="jdbbdj" /></a> </p>
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567320-eb8805e8-90dd-44fd-908d-99f57c43662f.gif" >
