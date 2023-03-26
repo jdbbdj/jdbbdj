@@ -4,6 +4,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
   <h3 align="center">Create with me! take a look on my simple animations</h3>
+  <a align="center" href="https://jamesdaryl.bio" target="_blank">jamesdaryl.bio</a>
   <img align="center" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
 </div>
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567320-eb8805e8-90dd-44fd-908d-99f57c43662f.gif" >
