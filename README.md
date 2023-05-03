@@ -14,7 +14,7 @@
 
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567311-354e7148-f356-46d6-9df9-75025e29fa08.gif" >
 
-- 🔭 I’m currently working on **Yondu Inc**
+- 🔭 I’m currently free agent right now, and willing to work with you
 
 - I'm Currently learning **THREE.JS, Blender, and React native integration**
 
