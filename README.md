@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h1 align="center">Hi 👋, I'm Daryl, or call me Darlyryl</h1>
-  <a align="center" href="https://jamesdaryl.bio" target="_blank">jamesdaryl.bio</a>
+  <a align="center" href="https://jamesdaryl.online" target="_blank">jamesdaryl.online</a>
   <h3 align="center">Create with me! take a look on my simple animations</h3>
   
   <img align="center" width="200px" src="https://user-images.githubusercontent.com/75722677/222564628-cb47d30a-57ae-4cc8-8511-cac850d964aa.gif" >
@@ -14,7 +14,7 @@
 
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/75722677/222567311-354e7148-f356-46d6-9df9-75025e29fa08.gif" >
 
-- 🔭 I’m currently free agent right now, and willing to work with you
+- 🔭 I’m currently employed right now, but willing to spend my free time learning and collaborating with projects
 
 - I'm Currently learning **THREE.JS, Blender, and React native integration**
 
